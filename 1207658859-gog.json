@@ -1,0 +1,4 @@
+{
+  "title": "Empire Earth 3",
+  "winetricks": ["d3dcompiler_47", "physx"]
+}
