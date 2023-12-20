@@ -1,0 +1,4 @@
+{
+  "title": "Next Up Hero",
+  "winetricks": ["d3dcompiler_47", "corefonts"]
+}
