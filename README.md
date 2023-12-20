@@ -39,6 +39,8 @@ The value of the `winetricks` property is an array of the names that Winetricks 
 - MudRunner
 - Next Up Hero
 - PC Building Simulator
+- Q.U.B.E. 10th Anniversary
+- Q.U.B.E. 2 (shows up as Deluxe Edition in the store)
 - Redout: Enhanced Edition
 - Rogue Legacy
 - Shadow Tactics - Aiko's Choice

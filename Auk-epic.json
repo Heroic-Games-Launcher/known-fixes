@@ -1,0 +1,4 @@
+{
+  "title": "Q.U.B.E. 2 (shows up as Deluxe Edition in the store)",
+  "winetricks": ["vcrun2022"]
+}
