@@ -1,3 +1,4 @@
 {
+  "title": "20XX",
   "winetricks": ["d3dcompiler_47"]
 }
