@@ -1,0 +1,4 @@
+{
+  "title": "Blair Witch",
+  "winetricks": ["d3dcompiler_43"]
+}
