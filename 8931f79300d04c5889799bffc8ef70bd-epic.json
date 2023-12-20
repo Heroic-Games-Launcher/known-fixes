@@ -1,0 +1,4 @@
+{
+  "title": "Galactic Civilizations III (Test branch)",
+  "winetricks": ["d3dx11_43"]
+}
