@@ -1,0 +1,4 @@
+{
+  "title": "Them's Fightin' Herds",
+  "winetricks": ["d3dcompiler_47", "d3dx9_43"]
+}
