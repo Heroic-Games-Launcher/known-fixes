@@ -1,0 +1,4 @@
+{
+  "title": "Alien Breed 3: Descent",
+  "winetricks": ["physx"]
+}

@@ -49,6 +49,8 @@ The value of the `winetricks` property is an array of the names that Winetricks 
 ### GOG:
 
 - Alien Breed: Impact
+- Alien Breed 2: Assault
+- Alien Breed 3: Descent
 - Beyond Good & Evil™
 - Hitman: Absolution
 - SpellForce 2 - Anniversary Edition
