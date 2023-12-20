@@ -1,0 +1,4 @@
+{
+  "title": "Galactic Civilizations III",
+  "winetricks": ["d3dx11_43"]
+}
