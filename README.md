@@ -53,6 +53,7 @@ The value of the `winetricks` property is an array of the names that Winetricks 
 - Alien Breed: Impact
 - Alien Breed 2: Assault
 - Alien Breed 3: Descent
+- Batman Arkham Asylum Game of the Year Edition
 - Beyond Good & Evil™
 - Empire Earth 3
 - Hitman: Absolution
