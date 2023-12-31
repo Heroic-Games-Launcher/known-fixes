@@ -33,6 +33,7 @@ The value of the `winetricks` property is an array of the names that Winetricks 
 - Europa Universalis IV
 - Galactic Civilizations III
 - Galactic Civilizations III (Test branch)
+- Ghostrunner
 - Hob
 - Horizon Zero Dawn Complete Edition
 - Hyper Light Drifter

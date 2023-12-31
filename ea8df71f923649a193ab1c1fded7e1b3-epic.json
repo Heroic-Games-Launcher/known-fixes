@@ -1,0 +1,4 @@
+{
+  "title": "Ghostrunner",
+  "winetricks": ["vcrun2022"]
+}
