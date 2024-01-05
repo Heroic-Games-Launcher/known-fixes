@@ -58,6 +58,7 @@ The value of the `winetricks` property is an array of the names that Winetricks 
 - Beyond Good & Evil™
 - Empire Earth 3
 - Hitman: Absolution
+- Horizon Zero Dawn Complete Edition
 - SpellForce 2 - Anniversary Edition
 - SpellForce 2: Demons Of The Past
 - SpellForce 2: Faith in Destiny
