@@ -1,0 +1,4 @@
+{
+  "title": "The Witcher 2: Assassins of Kings Enhanced Edition",
+  "winetricks": ["d3dcompiler_47", "mfc100"]
+}
