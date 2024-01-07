@@ -1,3 +1,11 @@
+## Known Game Fixes
+
+This repo keeps track of known fixes for games (currently we are tracking only winetricks fixes) running with Heroic Games Launcher.
+
+Note that this information applies to using up to date versions of the different tools. Make sure to use the latest version of Heroic and Wine-GE-Proton.
+
+Keep in mind that some games may need extra fixes and not only winetricks (like Empire Earth 3 needs DXVK disabled) and that information is not yet mapped here.
+
 ## Collaborations
 
 1. Add a JSON file following the file name convention with the list of winetricks packages and the game title as the content
@@ -17,6 +25,10 @@
 ```
 
 The value of the `winetricks` property is an array of the names that Winetricks understands.
+
+### Removals
+
+When a fix is not needed anymore, remove the json file and strike-through the title in the Readme with a mention of why it's removed if the reason is known.
 
 ## Fixes in the repo
 
