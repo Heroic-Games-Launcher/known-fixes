@@ -72,6 +72,7 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - Hitman: Absolution
 - Horizon Zero Dawn Complete Edition
 - LEGO® Star Wars™ - The Complete Saga
+- Monkey Island™ 2 Special Edition: LeChuck’s Revenge™
 - SpellForce 2 - Anniversary Edition
 - SpellForce 2: Demons Of The Past
 - SpellForce 2: Faith in Destiny
