@@ -4,7 +4,7 @@ This repo keeps track of known fixes for games (currently we are tracking only w
 
 Note that this information applies to using up to date versions of the different tools. Make sure to use the latest version of Heroic and Wine-GE-Proton.
 
-Keep in mind that some games may need extra fixes and not only winetricks (like Empire Earth 3 needs DXVK disabled) and that information is not yet mapped here.
+Keep in mind that some games may need extra fixes and not only winetricks, and that information is not yet mapped here.
 
 ## Collaborations
 
