@@ -38,7 +38,7 @@ The value of the `winetricks` property is an array of the names that Winetricks 
 - Horizon Zero Dawn Complete Edition
 - Hyper Light Drifter
 - MudRunner
-- Next Up Hero
+- ~Next Up Hero~ (not needed anymore)
 - PC Building Simulator
 - Q.U.B.E. 10th Anniversary
 - Q.U.B.E. 2 (shows up as Deluxe Edition in the store)
