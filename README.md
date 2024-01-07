@@ -24,7 +24,7 @@ The value of the `winetricks` property is an array of the names that Winetricks 
 
 - 20XX
 - Alan Wake's American Nightmare
-- BioShock Remastered
+- ~BioShock Remastered~ (not needed since Heroic 2.12.0)
 - Blair Witch
 - Core
 - Darksiders II Deathinitive Edition

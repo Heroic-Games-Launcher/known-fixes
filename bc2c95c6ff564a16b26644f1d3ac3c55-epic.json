@@ -1,4 +1,0 @@
-{
-  "title": "BioShock Remastered",
-  "winetricks": ["d3dcompiler_43"]
-}
