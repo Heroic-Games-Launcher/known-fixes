@@ -59,6 +59,7 @@ The value of the `winetricks` property is an array of the names that Winetricks 
 - Empire Earth 3
 - Hitman: Absolution
 - Horizon Zero Dawn Complete Edition
+- LEGO® Star Wars™ - The Complete Saga
 - SpellForce 2 - Anniversary Edition
 - SpellForce 2: Demons Of The Past
 - SpellForce 2: Faith in Destiny
