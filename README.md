@@ -76,6 +76,7 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - SpellForce 2 - Anniversary Edition
 - SpellForce 2: Demons Of The Past
 - SpellForce 2: Faith in Destiny
+- STAR WARS™ - The Force Unleashed™ Ultimate Sith Edition
 - Venetica - Gold Edition
 - The Witcher 2: Assassins of Kings Enhanced Edition
 
