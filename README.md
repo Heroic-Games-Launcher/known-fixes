@@ -44,7 +44,7 @@ The value of the `winetricks` property is an array of the names that Winetricks 
 - Q.U.B.E. 2 (shows up as Deluxe Edition in the store)
 - Redout: Enhanced Edition
 - Rogue Legacy
-- Shadow Tactics - Aiko's Choice
+- ~Shadow Tactics - Aiko's Choice~ (not needed anymore)
 - Them's Fightin' Herds
 - Train Sim World 2
 - Unrailed
