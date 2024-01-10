@@ -55,6 +55,7 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - Hob
 - Horizon Zero Dawn Complete Edition
 - Hyper Light Drifter
+- Kao the Kangaroo
 - MudRunner
 - ~Next Up Hero~ (not needed anymore)
 - PC Building Simulator
