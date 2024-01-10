@@ -1,4 +1,8 @@
 {
   "title": "The Witcher 2: Assassins of Kings Enhanced Edition",
-  "winetricks": ["d3dcompiler_47", "mfc100"]
+  "notes": {
+    "mfc100": "Fix launcher not starting",
+    "d3dx9_39": "Fix game not starting"
+  },
+  "winetricks": ["mfc100", "d3dx9_39"]
 }
