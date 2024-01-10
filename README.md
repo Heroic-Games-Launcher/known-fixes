@@ -19,12 +19,18 @@ Keep in mind that some games may need extra fixes and not only winetricks, and t
 
 ```json
 {
-  "title": "Alan Wake's American Nightmare",
-  "winetricks": ["d3dcompiler_47", "vcrun2019"]
+  "title": "Empire Earth 3",
+  "notes": {
+    "physx": "Fix game crashing while booting",
+    "d3dx9_30": "Fix crash opening the setting and visual glitches in game"
+  },
+  "winetricks": ["physx", "d3dx9_30"]
 }
 ```
 
 The value of the `winetricks` property is an array of the names that Winetricks understands.
+
+Optional (but encouraged) `"notes"` property can be used to add notes about what each Winetricks package is fixing. This is useful so in the future we can check if a package is still needed. We could eventually show that information to the user inside Heroic for transparency of what we are installing and why.
 
 ### Removals
 

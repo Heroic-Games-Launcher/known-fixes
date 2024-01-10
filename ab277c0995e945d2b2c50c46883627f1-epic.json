@@ -1,4 +1,7 @@
 {
   "title": "PC Building Simulator",
+  "notes": {
+    "corefonts": "Fix invisible text in menu"
+  },
   "winetricks": ["corefonts"]
 }

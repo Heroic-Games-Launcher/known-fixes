@@ -1,4 +1,7 @@
 {
   "title": "20XX",
+  "notes": {
+    "d3dcompiler_47": "Fix 'D3D Error' that happens at boot"
+  },
   "winetricks": ["d3dcompiler_47"]
 }
