@@ -1,0 +1,4 @@
+{
+    "title": "Kao the Kangaroo",
+    "winetricks": ["vcrun2022"]
+}
