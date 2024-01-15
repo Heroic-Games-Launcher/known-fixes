@@ -76,6 +76,7 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - Batman Arkham Asylum Game of the Year Edition
 - Beyond Good & Evil™
 - Empire Earth 3
+- Ghost Master
 - Hitman: Absolution
 - Horizon Zero Dawn Complete Edition
 - LEGO® Star Wars™ - The Complete Saga
