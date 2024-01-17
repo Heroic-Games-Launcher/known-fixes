@@ -96,6 +96,7 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - Ghost Master
 - Hitman: Absolution
 - Horizon Zero Dawn Complete Edition
+- LEGO® Batman 2 DC Super Heroes™
 - LEGO® Star Wars™ - The Complete Saga
 - Monkey Island™ 2 Special Edition: LeChuck’s Revenge™
 - SpellForce 2 - Anniversary Edition
