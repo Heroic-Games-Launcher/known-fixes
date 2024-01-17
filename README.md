@@ -1,14 +1,14 @@
 ## Known Game Fixes
 
-This repo keeps track of known fixes for games (currently we are tracking only winetricks fixes) running with Heroic Games Launcher.
+This repo keeps track of known fixes for games running with Heroic Games Launcher.
 
 Note that this information applies to using up to date versions of the different tools. Make sure to use the latest version of Heroic and Wine-GE-Proton.
 
-Keep in mind that some games may need extra fixes and not only winetricks, and that information is not yet mapped here.
+Keep in mind that some games may need extra fixes and not only the ones automated here, and that information is not yet mapped/supported.
 
 ## Collaborations
 
-1. Add a JSON file following the file name convention with the list of winetricks packages and the game title as the content
+1. Add a JSON file following the file name convention with the game title, the list of fixes, the list of files to install, and notes as the content
 2. Update this README adding the title of the game to the Store's list in alphabetical order
 
 ### Filename
@@ -28,7 +28,23 @@ Keep in mind that some games may need extra fixes and not only winetricks, and t
 }
 ```
 
+```json
+{
+  "title": "Fall Guys",
+  "notes": {
+    "vcrun2022": "Game prompts to install it, but we can prevent the need of user interaction.",
+    "EpicOnlineServices/EpicOnlineServicesInstaller.exe": "Solves 'Missing Files' error. This is required but not listed as a pre-requisite"
+  },
+  "winetricks": ["vcrun2022"],
+  "runInPrefix": ["EpicOnlineServices/EpicOnlineServicesInstaller.exe"]
+}
+```
+
 The value of the `winetricks` property is an array of the names that Winetricks understands.
+
+The value of the `runInPrefix` property is an array of strings with the paths of executables to install in the prefix, relative to the game's install folder.
+
+Both `winetricks` and `runInPrefix` properties are optional, but at least one of them should be defined for a file to be useful.
 
 Optional (but encouraged) `"notes"` property can be used to add notes about what each Winetricks package is fixing. This is useful so in the future we can check if a package is still needed. We could eventually show that information to the user inside Heroic for transparency of what we are installing and why.
 
@@ -49,6 +65,7 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - Defense Grid: The Awakening
 - Epistory - Typing Chronicles
 - Europa Universalis IV
+- Fall Guys (fixes will be supported starging with Heroic 2.13.0)
 - Galactic Civilizations III
 - Galactic Civilizations III (Test branch)
 - Ghostrunner
