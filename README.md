@@ -65,7 +65,7 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - Defense Grid: The Awakening
 - Epistory - Typing Chronicles
 - Europa Universalis IV
-- Fall Guys (fixes will be supported starging with Heroic 2.13.0)
+- Fall Guys (fixes will be supported starting with Heroic 2.13.0)
 - Galactic Civilizations III
 - Galactic Civilizations III (Test branch)
 - Ghostrunner
