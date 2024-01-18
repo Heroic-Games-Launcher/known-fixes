@@ -70,6 +70,7 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - Galactic Civilizations III (Test branch)
 - Ghostrunner
 - Hob
+- Hogwarts Legacy
 - Horizon Zero Dawn Complete Edition
 - Hyper Light Drifter
 - Kao the Kangaroo
