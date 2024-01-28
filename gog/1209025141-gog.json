@@ -1,0 +1,7 @@
+{
+  "title": "Horizon Zero Dawn Complete Edition",
+  "notes": {
+    "vcrun2019": "Redistributable is not provided in GOG manifest"
+  },
+  "winetricks": ["vcrun2019"]
+}

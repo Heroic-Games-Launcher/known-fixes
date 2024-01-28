@@ -1,0 +1,4 @@
+{
+  "title": "Hob",
+  "winetricks": ["d3dcompiler_43", "vcrun2012"]
+}

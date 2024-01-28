@@ -1,0 +1,4 @@
+{
+  "title": "Europa Universalis IV",
+  "winetricks": ["d3dx9_43"]
+}

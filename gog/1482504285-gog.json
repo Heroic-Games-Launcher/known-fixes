@@ -1,0 +1,4 @@
+{
+  "title": "Batman Arkham Asylum GOTY",
+  "winetricks": ["d3dcompiler_47"]
+}

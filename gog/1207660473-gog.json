@@ -1,0 +1,4 @@
+{
+  "title": "SpellForce 2: Demons Of The Past",
+  "winetricks": ["d3dcompiler_47"]
+}

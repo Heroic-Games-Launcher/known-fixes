@@ -1,0 +1,7 @@
+{
+  "title": "Galactic Civilizations III (Test branch)",
+  "notes": {
+    "d3dx11_43": "Fix menu issue with white screen with invisible content"
+  },
+  "winetricks": ["d3dx11_43"]
+}

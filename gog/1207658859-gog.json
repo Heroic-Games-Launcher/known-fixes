@@ -1,0 +1,8 @@
+{
+  "title": "Empire Earth 3",
+  "notes": {
+    "physx": "Fix game crashing while booting",
+    "d3dx9_30": "Fix crash opening the setting and visual glitches in game"
+  },
+  "winetricks": ["physx", "d3dx9_30"]
+}

@@ -1,0 +1,7 @@
+{
+  "title": "LEGO® Star Wars™ - The Complete Saga",
+  "notes": {
+    "d3dcompiler_47": "Fix visual glitches since the first screen (squares instead of real graphics)"
+  },
+  "winetricks": ["d3dcompiler_47"]
+}

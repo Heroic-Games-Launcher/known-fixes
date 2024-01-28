@@ -1,0 +1,4 @@
+{
+  "title": "SpellForce 2: Faith in Destiny",
+  "winetricks": ["d3dcompiler_47"]
+}

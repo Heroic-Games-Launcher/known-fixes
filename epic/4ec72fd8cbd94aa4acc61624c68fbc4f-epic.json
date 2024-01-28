@@ -1,0 +1,7 @@
+{
+  "title": "Epistory - Typing Chronicles",
+  "notes": {
+    "arial": "Solves invisible text"
+  },
+  "winetricks": ["arial"]
+}

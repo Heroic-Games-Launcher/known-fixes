@@ -1,0 +1,7 @@
+{
+  "title": "Q.U.B.E. 2 (shows up as Deluxe Edition in the store)",
+  "notes": {
+    "vcrun2022": "Game fails to start with a message requiring Visual C runtime"
+  },
+  "winetricks": ["vcrun2022"]
+}

@@ -8,8 +8,18 @@ Keep in mind that some games may need extra fixes and not only the ones automate
 
 ## Collaborations
 
-1. Add a JSON file following the file name convention with the game title, the list of fixes, the list of files to install, and notes as the content
+1. Add a JSON file following the file name convention with the game title, the list of fixes, the list of files to install, and notes as the content. **The file must be added twice temporarily: in the root of the project and in the folder of the corresponding store. Read below for more details.**
 2. Update this README adding the title of the game to the Store's list in alphabetical order
+
+### Duplicated files
+
+This repository was created for the feature introduced in Heroic 2.12.0 which reads from the root of the projects. Heroic 2.13.0 will change to look for files in a folder and not in the root.
+
+Files must be added in both places to work for users of both versions of Heroic transparently.
+
+Some time after the release of Heroic 2.13, all files from the root folder will be deleted and only the files inside the folders will be needed after that.
+
+Once that happens, all this documentation can be deleted too.
 
 ### Filename
 
