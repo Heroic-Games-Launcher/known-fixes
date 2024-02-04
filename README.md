@@ -85,6 +85,7 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - Hyper Light Drifter
 - Kao the Kangaroo
 - MudRunner
+- Neverwinter
 - ~Next Up Hero~ (not needed anymore)
 - PC Building Simulator
 - Q.U.B.E. 10th Anniversary
