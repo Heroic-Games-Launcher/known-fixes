@@ -94,6 +94,7 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - Rogue Legacy
 - ~Shadow Tactics - Aiko's Choice~ (not needed anymore)
 - The Elder Scrolls Online
+- The Expanse: A Telltale Series
 - Them's Fightin' Herds
 - Train Sim World 2
 - Unrailed
@@ -117,6 +118,7 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - SpellForce 2: Faith in Destiny
 - STAR WARS™ - The Force Unleashed™ Ultimate Sith Edition
 - Venetica - Gold Edition
+- The Expanse: A Telltale Series Deluxe Edition
 - The Witcher 2: Assassins of Kings Enhanced Edition
 
 ### Amazon:

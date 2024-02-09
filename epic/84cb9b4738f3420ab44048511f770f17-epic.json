@@ -1,0 +1,7 @@
+{
+  "title": "The Expanse: A Telltale Series",
+  "notes": {
+      "vcrun2019": "Allows game to run"
+  },
+  "winetricks": ["vcrun2019"]
+}
