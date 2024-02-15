@@ -71,6 +71,7 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - ~BioShock Remastered~ (not needed since Heroic 2.12.0)
 - Blair Witch
 - Core
+- Dakar Desert Rally
 - Darksiders II Deathinitive Edition
 - Defense Grid: The Awakening
 - Epistory - Typing Chronicles
