@@ -120,6 +120,7 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - STAR WARS™ - The Force Unleashed™ Ultimate Sith Edition
 - Venetica - Gold Edition
 - The Expanse: A Telltale Series Deluxe Edition
+- The Witcher: Enhanced Edition
 - The Witcher 2: Assassins of Kings Enhanced Edition
 
 ### Amazon:

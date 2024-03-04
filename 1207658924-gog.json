@@ -1,0 +1,7 @@
+{
+  "title": "The Witcher: Enhanced Edition",
+  "notes": {
+      "d3dx9_35": "DirectX is missing from GOG manifest (fixes a lot of partial stubs and unhandled parameters)"
+  },
+  "winetricks": ["d3dx9_35"]
+}
