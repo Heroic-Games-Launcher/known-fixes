@@ -102,25 +102,28 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 
 ### GOG:
 
+v2.13.0 means that the depednencies are installed automatically based on GOG manifest instead of using winetricks
+
+
 - Alien Breed: Impact
 - Alien Breed 2: Assault
 - Alien Breed 3: Descent
-- Batman Arkham Asylum Game of the Year Edition
+- ~Batman Arkham Asylum Game of the Year Edition~ (v2.13.0)
 - Beyond Good & Evil™
-- Empire Earth 3
+- ~Empire Earth 3~ (v2.13.0)
 - Ghost Master
 - Hitman: Absolution
 - Horizon Zero Dawn Complete Edition
-- LEGO® Batman 2 DC Super Heroes™
-- LEGO® Star Wars™ - The Complete Saga
-- Monkey Island™ 2 Special Edition: LeChuck’s Revenge™
-- SpellForce 2 - Anniversary Edition
-- SpellForce 2: Demons Of The Past
-- SpellForce 2: Faith in Destiny
-- STAR WARS™ - The Force Unleashed™ Ultimate Sith Edition
-- Venetica - Gold Edition
+- ~LEGO® Batman 2 DC Super Heroes™~ (v2.13.0)
+- ~LEGO® Star Wars™ - The Complete Saga~ (v2.13.0)
+- ~Monkey Island™ 2 Special Edition: LeChuck’s Revenge™~ (v2.13.0)
+- ~SpellForce 2 - Anniversary Edition~ (v2.13.0)
+- ~SpellForce 2: Demons Of The Past~ (v2.13.0)
+- ~SpellForce 2: Faith in Destiny~ (v2.13.0)
+- ~STAR WARS™ - The Force Unleashed™ Ultimate Sith Edition~ (v2.13.0)
+- ~Venetica - Gold Edition~ (v2.13.0)
 - The Expanse: A Telltale Series Deluxe Edition
 - The Witcher: Enhanced Edition
-- The Witcher 2: Assassins of Kings Enhanced Edition
+- ~The Witcher 2: Assassins of Kings Enhanced Edition~ (v2.13.0)
 
 ### Amazon:

@@ -1,4 +1,0 @@
-{
-  "title": "Venetica - Gold Edition",
-  "winetricks": ["d3dcompiler_47", "physx"]
-}
