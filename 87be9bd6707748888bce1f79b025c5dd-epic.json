@@ -1,7 +1,0 @@
-{
-  "title": "Neverwinter",
-  "notes": {
-    "d3dcompiler_47": "Fix black window when displaying game launcher."
-  },
-  "winetricks": ["d3dcompiler_47"]
-}

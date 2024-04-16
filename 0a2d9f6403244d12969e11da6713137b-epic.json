@@ -1,9 +1,0 @@
-{
-  "title": "Fall Guys",
-  "notes": {
-    "vcrun2022": "Game prompts to install it, but we can prevent the need of user interaction.",
-    "EpicOnlineServices/EpicOnlineServicesInstaller.exe": "Solves 'Missing Files' error. This is required but not listed as a pre-requisite"
-  },
-  "winetricks": ["vcrun2022"],
-  "runInPrefix": ["EpicOnlineServices/EpicOnlineServicesInstaller.exe"]
-}

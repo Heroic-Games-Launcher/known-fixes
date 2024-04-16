@@ -1,7 +1,0 @@
-{
-  "title": "LEGO® Batman 2 DC Super Heroes™",
-  "notes": {
-    "d3dcompiler_47": "Fix visual glitches since the first screen (squares instead of real graphics)"
-  },
-  "winetricks": ["d3dcompiler_47"]
-}

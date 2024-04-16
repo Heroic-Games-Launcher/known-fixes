@@ -1,7 +1,0 @@
-{
-  "title": "Ghost Master",
-  "notes": {
-    "wmp9": "Fix broken videos due to not supported Windows Media Decoder 7"
-  },
-  "winetricks": ["wmp9"]
-}

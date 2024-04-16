@@ -1,4 +1,0 @@
-{
-  "title": "Alan Wake's American Nightmare",
-  "winetricks": ["d3dcompiler_47", "vcrun2019"]
-}

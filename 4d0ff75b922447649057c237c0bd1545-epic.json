@@ -1,7 +1,0 @@
-{
-    "title": "The Elder Scrolls Online",
-    "notes": {
-        "dotnet48": "Fix game launcher not running"
-    },
-    "winetricks": ["dotnet48"]
-}

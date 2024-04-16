@@ -1,4 +1,0 @@
-{
-  "title": "Train Sim World 2",
-  "winetricks": ["d3dcompiler_47", "vcrun2019"]
-}

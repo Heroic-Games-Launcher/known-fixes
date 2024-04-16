@@ -1,7 +1,0 @@
-{
-  "title": "The Expanse: A Telltale Series Deluxe Edition",
-  "notes": {
-      "vcrun2019": "Allows game to run"
-  },
-  "winetricks": ["vcrun2019"]
-}

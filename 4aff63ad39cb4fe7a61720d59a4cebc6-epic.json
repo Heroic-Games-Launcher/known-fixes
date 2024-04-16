@@ -1,7 +1,0 @@
-{
-  "title": "Dakar Desert Rally",
-  "notes": {
-    "vcrun2022": "Game asks to install it or it won't start"
-  },
-  "winetricks": ["vcrun2022"]
-}
