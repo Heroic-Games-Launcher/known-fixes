@@ -96,6 +96,7 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - ~Shadow Tactics - Aiko's Choice~ (not needed anymore)
 - The Elder Scrolls Online
 - The Expanse: A Telltale Series
+- Thief
 - Them's Fightin' Herds
 - Train Sim World 2
 - Unrailed

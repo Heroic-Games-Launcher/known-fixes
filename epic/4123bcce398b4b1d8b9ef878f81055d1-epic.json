@@ -1,0 +1,8 @@
+{
+  "title": "Thief",
+  "notes": {
+    "d3dcompiler_43": "Fix crash during boot (black screen for a while and then closes) starting 2024/04/14."
+  },
+  "winetricks": ["d3dcompiler_43"]
+}
+  
