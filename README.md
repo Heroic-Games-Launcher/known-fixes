@@ -103,8 +103,7 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 
 ### GOG:
 
-v2.13.0 means that the depednencies are installed automatically based on GOG manifest instead of using winetricks
-
+v2.13.0 means that the dependencies are installed automatically based on GOG manifest instead of using winetricks
 
 - Alien Breed: Impact
 - Alien Breed 2: Assault
@@ -112,6 +111,7 @@ v2.13.0 means that the depednencies are installed automatically based on GOG man
 - ~Batman Arkham Asylum Game of the Year Edition~ (v2.13.0)
 - Beyond Good & Evil™
 - ~Empire Earth 3~ (v2.13.0)
+- Evil West
 - Ghost Master
 - Hitman: Absolution
 - Horizon Zero Dawn Complete Edition
