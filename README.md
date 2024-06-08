@@ -100,6 +100,7 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - Them's Fightin' Herds
 - Train Sim World 2
 - Unrailed
+- Weird West: Definitive Edition
 
 ### GOG:
 
