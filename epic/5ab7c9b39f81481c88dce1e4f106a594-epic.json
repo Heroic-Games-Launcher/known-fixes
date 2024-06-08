@@ -1,0 +1,7 @@
+{
+  "title": "Weird West: Definitive Edition",
+  "notes": {
+      "vcrun2019": "Allows the game to run"
+  },
+  "winetricks": ["vcrun2019"]
+}
