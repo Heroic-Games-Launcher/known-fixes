@@ -8,7 +8,7 @@ Keep in mind that some games may need extra fixes and not only the ones automate
 
 ## Collaborations
 
-1. Add a JSON file following the file name convention with the game title, the list of fixes, the list of files to install, and notes as the content. **The file must be added twice temporarily: in the root of the project and in the folder of the corresponding store. Read below for more details.**
+1. Add a JSON file following the file name convention with the game title, the list of fixes, the list of files to install, and notes as the content in the corresponding store folder.
 2. Update this README adding the title of the game to the Store's list in alphabetical order
 
 ### Duplicated files
