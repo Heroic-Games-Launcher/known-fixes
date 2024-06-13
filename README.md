@@ -92,6 +92,7 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - Q.U.B.E. 10th Anniversary
 - Q.U.B.E. 2 (shows up as Deluxe Edition in the store)
 - Redout: Enhanced Edition
+- Redout 2
 - Rogue Legacy
 - ~Shadow Tactics - Aiko's Choice~ (not needed anymore)
 - The Elder Scrolls Online
