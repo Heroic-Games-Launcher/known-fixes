@@ -1,0 +1,7 @@
+{
+  "title": "Fahrenheit: Indigo Prophecy Remastered",
+  "notes": {
+      "vcrun2005": "Allows game to run"
+  },
+  "winetricks": ["vcrun2005"]
+}

@@ -114,6 +114,7 @@ v2.13.0 means that the dependencies are installed automatically based on GOG man
 - Beyond Good & Evil™
 - ~Empire Earth 3~ (v2.13.0)
 - Evil West
+- Fahrenheit: Indigo Prophecy Remastered
 - Ghost Master
 - Hitman: Absolution
 - Horizon Zero Dawn Complete Edition
