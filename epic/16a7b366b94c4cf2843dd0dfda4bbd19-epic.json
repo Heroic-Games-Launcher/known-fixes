@@ -1,0 +1,10 @@
+{
+    "title": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+    "notes": {
+      "d3dcompiler_47": "Fix black window when displaying game launcher.",
+      "vcrun2017": "Fix game not starting.",
+      "dotnet46": "Fix game not starting (seems to not be needed for some systems, steamdeck needs this.)"
+    },
+    "winetricks": ["d3dcompiler_47", "vcrun2017", "dotnet46"]
+  }
+  
