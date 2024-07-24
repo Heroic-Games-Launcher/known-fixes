@@ -1,0 +1,7 @@
+{
+  "title": "Nobody Wants to Die",
+  "notes": {
+      "vcrun2022": "The game requires 64 bit C++, not provided by GOG manifest"
+  },
+  "winetricks": ["vcrun2022"]
+}

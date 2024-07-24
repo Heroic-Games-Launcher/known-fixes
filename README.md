@@ -122,6 +122,7 @@ v2.13.0 means that the dependencies are installed automatically based on GOG man
 - ~LEGO® Batman 2 DC Super Heroes™~ (v2.13.0)
 - ~LEGO® Star Wars™ - The Complete Saga~ (v2.13.0)
 - ~Monkey Island™ 2 Special Edition: LeChuck’s Revenge™~ (v2.13.0)
+- Nobody Wants to Die
 - ~SpellForce 2 - Anniversary Edition~ (v2.13.0)
 - ~SpellForce 2: Demons Of The Past~ (v2.13.0)
 - ~SpellForce 2: Faith in Destiny~ (v2.13.0)
