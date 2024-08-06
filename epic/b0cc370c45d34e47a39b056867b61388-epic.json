@@ -1,0 +1,7 @@
+{
+  "title": "Planescape: Torment: Enhanced Edition",
+  "notes": {
+      "openal": "Allows game to run"
+  },
+  "winetricks": ["openal"]
+}
