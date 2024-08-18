@@ -99,6 +99,7 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - Teenage Mutant Ninja Turtles: Shredder's Revenge
 - The Elder Scrolls Online
 - The Expanse: A Telltale Series
+- The Last of Us Part I
 - Thief
 - Them's Fightin' Herds
 - Train Sim World 2

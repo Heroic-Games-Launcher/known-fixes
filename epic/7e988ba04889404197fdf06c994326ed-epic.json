@@ -1,0 +1,7 @@
+{
+  "title": "The Last of Us™ Part I",
+  "notes": {
+      "vcrun2022": "Allows game to run"
+  },
+  "winetricks": ["vcrun2022"]
+}
