@@ -1,0 +1,8 @@
+{
+    "title": "Moonlighter",
+    "notes": {
+      "vcrun2017": "Solves the black screen on launch"
+    },
+    "winetricks": ["vcrun2017"]
+  }
+  

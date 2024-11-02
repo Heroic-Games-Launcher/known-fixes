@@ -85,6 +85,7 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - Horizon Zero Dawn Complete Edition
 - Hyper Light Drifter
 - Kao the Kangaroo
+- Moonlighter
 - MudRunner
 - Neverwinter
 - ~Next Up Hero~ (not needed anymore)
@@ -124,6 +125,7 @@ v2.13.0 means that the dependencies are installed automatically based on GOG man
 - Horizon Zero Dawn Complete Edition
 - ~LEGO® Batman 2 DC Super Heroes™~ (v2.13.0)
 - ~LEGO® Star Wars™ - The Complete Saga~ (v2.13.0)
+- Moonlighter
 - ~Monkey Island™ 2 Special Edition: LeChuck’s Revenge™~ (v2.13.0)
 - Nobody Wants to Die
 - ~SpellForce 2 - Anniversary Edition~ (v2.13.0)
