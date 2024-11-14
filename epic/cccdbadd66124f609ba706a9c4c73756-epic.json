@@ -1,0 +1,7 @@
+{
+  "title": "Deceive Inc",
+  "notes": {
+    "vcrun2022": "Fixes black screen opening the game."
+  },
+  "winetricks": ["vcrun2022"]
+}

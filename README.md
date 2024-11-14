@@ -74,6 +74,7 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - Dakar Desert Rally
 - Darksiders II Deathinitive Edition
 - Defense Grid: The Awakening
+- Deceive Inc
 - Epistory - Typing Chronicles
 - Europa Universalis IV
 - Fall Guys (fixes will be supported starting with Heroic 2.13.0)
