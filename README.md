@@ -2,7 +2,7 @@
 
 This repo keeps track of known fixes for games running with Heroic Games Launcher.
 
-Note that this information applies to using up to date versions of the different tools. Make sure to use the latest version of Heroic and Wine-GE-Proton.
+Note that this information applies to using up to date versions of the different tools. Make sure to use the latest version of Heroic and Wine-GE-Proton or Proton-GE-Proton if on Linux. Fixes may work on Mac too depending on which compatibility layer is used if it supports Winetricks.
 
 Keep in mind that some games may need extra fixes and not only the ones automated here, and that information is not yet mapped/supported.
 
