@@ -82,6 +82,7 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - Galactic Civilizations III
 - Galactic Civilizations III (Test branch)
 - Ghostrunner
+- Ghostrunner 2
 - Hob
 - Hogwarts Legacy
 - Horizon Zero Dawn Complete Edition

@@ -1,0 +1,7 @@
+{
+  "title": "Ghostrunner 2",
+  "notes": {
+    "vcrun2022": "Games fails to launch without it."
+  },
+  "winetricks": ["vcrun2022"]
+}
