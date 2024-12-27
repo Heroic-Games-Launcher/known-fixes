@@ -86,6 +86,7 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - Hob
 - Hogwarts Legacy
 - Horizon Zero Dawn Complete Edition
+- HOT WHEELS UNLEASHED™
 - Hyper Light Drifter
 - Kao the Kangaroo
 - Moonlighter

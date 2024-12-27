@@ -1,0 +1,7 @@
+{
+  "title": "HOT WHEELS UNLEASHED™",
+  "notes": {
+    "vcrun2022": "Games fails to launch without it."
+  },
+  "winetricks": ["vcrun2022"]
+}
