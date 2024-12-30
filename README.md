@@ -66,6 +66,7 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 
 ### Epic:
 
+- \[REDACTED\]
 - 20XX
 - Alan Wake's American Nightmare
 - ~BioShock Remastered~ (not needed since Heroic 2.12.0)
