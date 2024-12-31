@@ -1,0 +1,7 @@
+{
+  "title": "Sifu",
+  "notes": {
+    "vcrun2022": "Game fails to start with a message requiring Visual C runtime"
+  },
+  "winetricks": ["vcrun2022"]
+}
