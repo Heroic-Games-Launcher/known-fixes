@@ -102,6 +102,7 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - Redout 2
 - Rogue Legacy
 - ~Shadow Tactics - Aiko's Choice~ (not needed anymore)
+- Sifu
 - Teenage Mutant Ninja Turtles: Shredder's Revenge
 - The Callisto Protocol
 - The Elder Scrolls Online
