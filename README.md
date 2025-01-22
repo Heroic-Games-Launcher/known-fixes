@@ -127,6 +127,7 @@ v2.13.0 means that the dependencies are installed automatically based on GOG man
 - Evil West
 - Fahrenheit: Indigo Prophecy Remastered
 - Ghost Master
+- Heroes of Might and Magic® 3: Complete
 - Hitman: Absolution
 - Horizon Zero Dawn Complete Edition
 - ~LEGO® Batman 2 DC Super Heroes™~ (v2.13.0)
