@@ -3,5 +3,5 @@
   "notes": {
     "vcrun2019": "Redistributable is not provided in GOG manifest"
   },
-  "winetricks": ["vcrun2019"]
+  "winetricks": ["vcrun2022"]
 }
