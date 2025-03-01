@@ -84,6 +84,7 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - Galactic Civilizations III (Test branch)
 - Ghostrunner
 - Ghostrunner 2
+- Grand Theft Auto V
 - Hob
 - Hogwarts Legacy
 - Horizon Zero Dawn Complete Edition
@@ -98,6 +99,7 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - Planescape: Torment: Enhanced Edition
 - Q.U.B.E. 10th Anniversary
 - Q.U.B.E. 2 (shows up as Deluxe Edition in the store)
+- Red Dead Redemption 2
 - Redout: Enhanced Edition
 - Redout 2
 - Rogue Legacy
