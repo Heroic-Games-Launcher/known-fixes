@@ -1,0 +1,8 @@
+{
+  "title": "Tzar: The Burden of the Crown",
+  "notes": {
+    "mcf42": "Fixes 'Invalid Tzar configuration detected' error (based on https://www.protondb.com/app/825730)",
+    "mcf140": "Allows running the game in higher resolutions if HD pack is used (based on https://www.protondb.com/app/825730)"
+  },
+  "winetricks": ["mcf42", "mcf140"]
+}
