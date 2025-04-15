@@ -1,7 +1,7 @@
 {
   "title": "The Expanse: A Telltale Series",
   "notes": {
-      "vcrun2019": "Allows game to run"
+      "vcrun2022": "Allows game to run"
   },
-  "winetricks": ["vcrun2019"]
+  "winetricks": ["vcrun2022"]
 }

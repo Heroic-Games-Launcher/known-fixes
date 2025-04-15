@@ -1,4 +1,4 @@
 {
   "title": "Hogwarts Legacy",
-  "winetricks": ["vcrun2019"]
+  "winetricks": ["vcrun2022"]
 }

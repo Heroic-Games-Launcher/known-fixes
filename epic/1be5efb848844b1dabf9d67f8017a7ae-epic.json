@@ -1,4 +1,4 @@
 {
   "title": "Redout: Enhanced Edition",
-  "winetricks": ["vcrun2019"]
+  "winetricks": ["vcrun2022"]
 }
