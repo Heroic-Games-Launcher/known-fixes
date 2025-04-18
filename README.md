@@ -125,6 +125,7 @@ v2.13.0 means that the dependencies are installed automatically based on GOG man
 - Alien Breed 3: Descent
 - ~Batman Arkham Asylum Game of the Year Edition~ (v2.13.0)
 - Beyond Good & Evil™
+- Doom (2016)
 - ~Empire Earth 3~ (v2.13.0)
 - Evil West
 - Fahrenheit: Indigo Prophecy Remastered

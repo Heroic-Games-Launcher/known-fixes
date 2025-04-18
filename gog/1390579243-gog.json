@@ -1,0 +1,7 @@
+{
+    "title": "Doom (2016)",
+    "notes": {
+        "vcrun2022": "Fixes crashing on Launch"
+    },
+    "winetricks": ["vcrun2022"]
+}
