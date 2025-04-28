@@ -6,20 +6,12 @@ Note that this information applies to using up to date versions of the different
 
 Keep in mind that some games may need extra fixes and not only the ones automated here, and that information is not yet mapped/supported.
 
+Also note that some of these fixes may be redundant when using UMU on linux, since it also installs known fixes with protofixes.
+
 ## Collaborations
 
 1. Add a JSON file following the file name convention with the game title, the list of fixes, the list of files to install, and notes as the content in the corresponding store folder.
 2. Update this README adding the title of the game to the Store's list in alphabetical order
-
-### Duplicated files
-
-This repository was created for the feature introduced in Heroic 2.12.0 which reads from the root of the projects. Heroic 2.13.0 will change to look for files in a folder and not in the root.
-
-Files must be added in both places to work for users of both versions of Heroic transparently.
-
-Some time after the release of Heroic 2.13, all files from the root folder will be deleted and only the files inside the folders will be needed after that.
-
-Once that happens, all this documentation can be deleted too.
 
 ### Filename
 
@@ -54,7 +46,9 @@ The value of the `winetricks` property is an array of the names that Winetricks 
 
 The value of the `runInPrefix` property is an array of strings with the paths of executables to install in the prefix, relative to the game's install folder.
 
-Both `winetricks` and `runInPrefix` properties are optional, but at least one of them should be defined for a file to be useful.
+The value of the `envVariables` property is an object with env variable names as the keys and env variables values as the values.
+
+All properties are optional, but at least one of above should be defined for a file to be useful.
 
 Optional (but encouraged) `"notes"` property can be used to add notes about what each Winetricks package is fixing. This is useful so in the future we can check if a package is still needed. We could eventually show that information to the user inside Heroic for transparency of what we are installing and why.
 
