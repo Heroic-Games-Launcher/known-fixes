@@ -102,6 +102,7 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - Teenage Mutant Ninja Turtles: Shredder's Revenge
 - The Callisto Protocol
 - The Elder Scrolls Online
+- The Elder Scrolls V: Skyrim Special Edition
 - The Expanse: A Telltale Series
 - The Last of Us Part I
 - Thief
