@@ -1,7 +1,0 @@
-{
-  "title": "The Elder Scrolls V: Skyrim Special Edition",
-  "notes": {
-    "xact_x64": "NPC voices and music is missing without it."
-  },
-  "winetricks": ["xact_x64"]
-}
