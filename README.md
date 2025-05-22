@@ -121,21 +121,25 @@ v2.13.0 means that the dependencies are installed automatically based on GOG man
 - Beyond Good & Evil™
 - Doom (2016)
 - ~Empire Earth 3~ (v2.13.0)
+- Europa Universalis IV
 - Evil West
 - Fahrenheit: Indigo Prophecy Remastered
 - Ghost Master
 - Heroes of Might and Magic® 3: Complete
 - Hitman: Absolution
 - Horizon Zero Dawn Complete Edition
+- Imperator: Rome
 - ~LEGO® Batman 2 DC Super Heroes™~ (v2.13.0)
 - ~LEGO® Star Wars™ - The Complete Saga~ (v2.13.0)
 - Moonlighter
 - ~Monkey Island™ 2 Special Edition: LeChuck’s Revenge™~ (v2.13.0)
 - Nobody Wants to Die
+- Prison Architect
 - ~SpellForce 2 - Anniversary Edition~ (v2.13.0)
 - ~SpellForce 2: Demons Of The Past~ (v2.13.0)
 - ~SpellForce 2: Faith in Destiny~ (v2.13.0)
 - ~STAR WARS™ - The Force Unleashed™ Ultimate Sith Edition~ (v2.13.0)
+- Stellaris
 - ~Venetica - Gold Edition~ (v2.13.0)
 - The Expanse: A Telltale Series Deluxe Edition
 - The Witcher: Enhanced Edition
