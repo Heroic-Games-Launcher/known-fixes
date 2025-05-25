@@ -1,0 +1,7 @@
+{
+  "title": "Grand Theft Auto V Enhanced",
+  "wikiLink": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/Rockstar-Games-from-Epic-Games",
+  "envVariables": {
+    "USE_FAKE_EPIC_EXE": true
+  }
+}
