@@ -2,6 +2,6 @@
   "title": "Red Dead Redemption 2",
   "wikiLink": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/Rockstar-Games-from-Epic-Games",
   "envVariables": {
-    "_USE_FAKE_EPIC_EXE": true
+    "USE_FAKE_EPIC_EXE": true
   }
 }
