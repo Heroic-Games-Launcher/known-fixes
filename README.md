@@ -147,5 +147,6 @@ v2.13.0 means that the dependencies are installed automatically based on GOG man
 - The Witcher: Enhanced Edition
 - ~The Witcher 2: Assassins of Kings Enhanced Edition~ (v2.13.0)
 - Tzar: The Burden of the Crown
+- XCOM® 2
 
 ### Amazon:
