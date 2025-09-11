@@ -1,0 +1,6 @@
+{
+  "title": "Returnal™",
+  "envVariables": {
+    "USE_FAKE_EPIC_EXE": true
+  }
+}

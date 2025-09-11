@@ -98,6 +98,7 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - Red Dead Redemption 2
 - Redout: Enhanced Edition
 - Redout 2
+- Returnal™
 - Rogue Legacy
 - ~Shadow Tactics - Aiko's Choice~ (not needed anymore)
 - Sifu
