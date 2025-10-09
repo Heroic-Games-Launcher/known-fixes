@@ -1,0 +1,8 @@
+{
+    "title": "THIEF: Definitive Edition",
+    "notes": {
+      "d3dcompiler_43": "Fix game not opening"
+    },
+    "winetricks": ["d3dcompiler_43"]
+  }
+  

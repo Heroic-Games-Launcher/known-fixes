@@ -147,6 +147,7 @@ v2.13.0 means that the dependencies are installed automatically based on GOG man
 - The Expanse: A Telltale Series Deluxe Edition
 - The Witcher: Enhanced Edition
 - ~The Witcher 2: Assassins of Kings Enhanced Edition~ (v2.13.0)
+- THIEF: Definitive Edition
 - Tzar: The Burden of the Crown
 - XCOM® 2
 
