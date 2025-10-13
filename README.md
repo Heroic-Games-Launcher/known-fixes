@@ -95,6 +95,7 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - Planescape: Torment: Enhanced Edition
 - Q.U.B.E. 10th Anniversary
 - Q.U.B.E. 2 (shows up as Deluxe Edition in the store)
+- Red Dead Redemption
 - Red Dead Redemption 2
 - Redout: Enhanced Edition
 - Redout 2

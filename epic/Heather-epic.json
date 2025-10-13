@@ -1,6 +1,9 @@
 {
   "title": "Red Dead Redemption 2",
   "wikiLink": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/Rockstar-Games-from-Epic-Games",
+  "notes": {
+    "USE_FAKE_EPIC_EXE": "Fixes Rockstar Launcher not detecting ownership of the game"
+  },
   "envVariables": {
     "USE_FAKE_EPIC_EXE": true
   }

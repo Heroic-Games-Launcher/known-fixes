@@ -1,5 +1,8 @@
 {
   "title": "Returnal™",
+  "notes": {
+    "USE_FAKE_EPIC_EXE": "Fixes game not detecting ownership in Epic"
+  },
   "envVariables": {
     "USE_FAKE_EPIC_EXE": true
   }
