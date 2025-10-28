@@ -1,8 +1,8 @@
 {
     "title": "XCOM® 2",
     "notes": {
-      "vcrun2022": "Fixes game not reacting to input"
+      "vcrun2013": "Fixes game not reacting to input (vcrun2022 doesn't help)"
     },
-    "winetricks": ["vcrun2022"]
+    "winetricks": ["vcrun2013"]
   }
   
