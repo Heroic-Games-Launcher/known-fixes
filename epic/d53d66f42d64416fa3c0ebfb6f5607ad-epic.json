@@ -1,0 +1,7 @@
+{
+  "title": "Nightingale",
+  "notes": {
+    "vcrun2022": "Won't open without it. umu installs it on linux, but it's needed on mac"
+  },
+  "winetricks": ["vcrun2022"]
+}

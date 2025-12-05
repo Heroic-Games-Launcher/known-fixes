@@ -90,6 +90,7 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - Moonlighter
 - MudRunner
 - Neverwinter
+- Nightingale
 - ~Next Up Hero~ (not needed anymore)
 - PC Building Simulator
 - Planescape: Torment: Enhanced Edition
