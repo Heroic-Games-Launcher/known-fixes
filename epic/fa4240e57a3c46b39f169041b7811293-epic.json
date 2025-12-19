@@ -1,4 +1,5 @@
 {
   "title": "Hogwarts Legacy",
+  "wikiLink": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/Game-Workarounds#hogwarts-legacy-on-macos",
   "winetricks": ["vcrun2022"]
 }
