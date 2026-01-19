@@ -76,6 +76,7 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - Fall Guys (fixes will be supported starting with Heroic 2.13.0)
 - Galactic Civilizations III
 - Galactic Civilizations III (Test branch)
+- Genshin Impact
 - Ghostrunner
 - Ghostrunner 2
 - Grand Theft Auto V
