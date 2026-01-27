@@ -1,0 +1,9 @@
+{
+  "title": "Fortnite",
+  "notes": {
+    "USE_FAKE_EPIC_EXE": "The fake epic exe breaks Fornite"
+  },
+  "envVariables": {
+    "USE_FAKE_EPIC_EXE": "0"
+  }
+}
