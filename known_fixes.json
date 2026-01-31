@@ -1,0 +1,610 @@
+{
+  "1146026335": {
+    "title": "Fahrenheit: Indigo Prophecy Remastered",
+    "notes": {
+      "vcrun2005": "Allows game to run"
+    },
+    "winetricks": [
+      "vcrun2005"
+    ]
+  },
+  "1207658687": {
+    "title": "Ghost Master",
+    "notes": {
+      "wmp9": "Fix broken videos due to not supported Windows Media Decoder 7"
+    },
+    "winetricks": [
+      "wmp9"
+    ]
+  },
+  "1207658746": {
+    "title": "Beyond Good & Evil™",
+    "winetricks": [
+      "d3dcompiler_43"
+    ]
+  },
+  "1207658787": {
+    "title": "Heroes of Might and Magic® 3: Complete",
+    "wikiLink": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/Game-Workarounds#heroes-of-might-and-magic-3-complete-from-gog"
+  },
+  "1207658924": {
+    "title": "The Witcher: Enhanced Edition",
+    "notes": {
+      "d3dx9_35": "DirectX is missing from GOG manifest (fixes a lot of partial stubs and unhandled parameters)"
+    },
+    "winetricks": [
+      "d3dx9_35"
+    ]
+  },
+  "1207659252": {
+    "title": "Tzar: The Burden of the Crown",
+    "notes": {
+      "mcf42": "Fixes 'Invalid Tzar configuration detected' error (based on https://www.protondb.com/app/825730)",
+      "mcf140": "Allows running the game in higher resolutions if HD pack is used (based on https://www.protondb.com/app/825730)"
+    },
+    "winetricks": [
+      "mcf42",
+      "mcf140"
+    ]
+  },
+  "1209025141": {
+    "title": "Horizon Zero Dawn Complete Edition",
+    "notes": {
+      "vcrun2022": "Redistributable is not provided in GOG manifest"
+    },
+    "winetricks": [
+      "vcrun2022"
+    ]
+  },
+  "1390579243": {
+    "title": "Doom (2016)",
+    "notes": {
+      "vcrun2022": "Fixes crashing on Launch"
+    },
+    "winetricks": [
+      "vcrun2022"
+    ]
+  },
+  "1441974651": {
+    "title": "Prison Architect",
+    "wikiLink": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/Paradox-Launcher-for-native-Linux-games-from-GOG"
+  },
+  "1446830366": {
+    "title": "THIEF: Definitive Edition",
+    "notes": {
+      "d3dcompiler_43": "Fix game not opening"
+    },
+    "winetricks": [
+      "d3dcompiler_43"
+    ]
+  },
+  "1482002159": {
+    "title": "XCOM® 2",
+    "notes": {
+      "vcrun2013": "Fixes game not reacting to input (vcrun2022 doesn't help)"
+    },
+    "winetricks": [
+      "vcrun2013"
+    ]
+  },
+  "1484887196": {
+    "title": "Nobody Wants to Die",
+    "notes": {
+      "vcrun2022": "The game requires 64 bit C++, not provided by GOG manifest"
+    },
+    "winetricks": [
+      "vcrun2022"
+    ]
+  },
+  "1508702879": {
+    "title": "Stellaris",
+    "wikiLink": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/Paradox-Launcher-for-native-Linux-games-from-GOG"
+  },
+  "1636740686": {
+    "title": "Evil West",
+    "notes": {
+      "vcrun2022": "Without this it shows an error saying visual C++ runtime is needed and wouldn't launch"
+    },
+    "winetricks": [
+      "vcrun2022"
+    ]
+  },
+  "1743464065": {
+    "title": "Alien Breed 3: Descent",
+    "winetricks": [
+      "physx"
+    ]
+  },
+  "1757179626": {
+    "title": "Hitman: Absolution",
+    "winetricks": [
+      "d3dcompiler_47"
+    ]
+  },
+  "1786995757": {
+    "title": "Alien Breed 2: Assault",
+    "winetricks": [
+      "physx"
+    ]
+  },
+  "1905791638": {
+    "title": "Alien Breed: Impact",
+    "winetricks": [
+      "physx"
+    ]
+  },
+  "1950350062": {
+    "title": "The Expanse: A Telltale Series Deluxe Edition",
+    "notes": {
+      "vcrun2022": "Allows game to run"
+    },
+    "winetricks": [
+      "vcrun2022"
+    ]
+  },
+  "2057001589": {
+    "title": "Europa Universalis IV",
+    "wikiLink": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/Paradox-Launcher-for-native-Linux-games-from-GOG"
+  },
+  "2131232214": {
+    "title": "Imperator: Rome",
+    "wikiLink": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/Paradox-Launcher-for-native-Linux-games-from-GOG"
+  },
+  "2147483047": {
+    "title": "Moonlighter",
+    "notes": {
+      "vcrun2017": "Solves the black screen on launch"
+    },
+    "winetricks": [
+      "vcrun2017"
+    ]
+  },
+  "0006475a83f143ba807174654bc09d38": {
+    "title": "HOT WHEELS UNLEASHED™",
+    "notes": {
+      "vcrun2022": "Games fails to launch without it."
+    },
+    "winetricks": [
+      "vcrun2022"
+    ]
+  },
+  "01f1e8046e9e433db190a611a0411579": {
+    "title": "Rogue Legacy",
+    "winetricks": [
+      "d3dcompiler_47"
+    ]
+  },
+  "0a2d9f6403244d12969e11da6713137b": {
+    "title": "Fall Guys",
+    "notes": {
+      "vcrun2022": "Game prompts to install it, but we can prevent the need of user interaction.",
+      "EpicOnlineServices/EpicOnlineServicesInstaller.exe": "Solves 'Missing Files' error. This is required but not listed as a pre-requisite"
+    },
+    "winetricks": [
+      "vcrun2022"
+    ],
+    "runInPrefix": [
+      "EpicOnlineServices/EpicOnlineServicesInstaller.exe"
+    ]
+  },
+  "0fcb6881984f4e9ab91f5e22e4bf844c": {
+    "title": "Bus Simulator 21 Next Stop",
+    "notes": {
+      "vcrun2022": "Game fails to start with a message requiring Visual C runtime"
+    },
+    "winetricks": [
+      "vcrun2022"
+    ]
+  },
+  "16a37a0080e3414aafb30f1cc8390f6c": {
+    "title": "Redout 2",
+    "notes": {
+      "vcrun2022": "Games fails to launch without it."
+    },
+    "winetricks": [
+      "vcrun2022"
+    ]
+  },
+  "16a7b366b94c4cf2843dd0dfda4bbd19": {
+    "title": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+    "notes": {
+      "d3dcompiler_47": "Fix black window when displaying game launcher.",
+      "vcrun2017": "Fix game not starting.",
+      "dotnet46": "Fix game not starting (seems to not be needed for some systems, steamdeck needs this.)"
+    },
+    "winetricks": [
+      "d3dcompiler_47",
+      "vcrun2017",
+      "dotnet46"
+    ]
+  },
+  "1be5efb848844b1dabf9d67f8017a7ae": {
+    "title": "Redout: Enhanced Edition",
+    "winetricks": [
+      "vcrun2022"
+    ]
+  },
+  "247a0f0f5803429eb3be2c06f3ea77ff": {
+    "title": "Blair Witch",
+    "notes": {
+      "d3dcompiler_43": "Solves a crash that happens a few minutes after game starts"
+    },
+    "winetricks": [
+      "d3dcompiler_43"
+    ]
+  },
+  "256ba8bdd1ff4c26a0b2d3776d1a1bf6": {
+    "title": "The Callisto Protocol",
+    "notes": {
+      "vcrun2022": "Game asks to install it or it won't start"
+    },
+    "winetricks": [
+      "vcrun2022"
+    ]
+  },
+  "2d9d7555ccdd4ceaa1b60e501ba0bacd": {
+    "title": "Them's Fightin' Herds",
+    "winetricks": [
+      "d3dcompiler_43",
+      "d3dx9_43"
+    ]
+  },
+  "4123bcce398b4b1d8b9ef878f81055d1": {
+    "title": "Thief",
+    "notes": {
+      "d3dcompiler_43": "Fix crash during boot (black screen for a while and then closes) starting 2024/04/14."
+    },
+    "winetricks": [
+      "d3dcompiler_43"
+    ]
+  },
+  "41869934302e4b8cafac2d3c0e7c293d": {
+    "title": "Genshin Impact",
+    "wikiLink": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/Anime-Games#genshin-impact-linux"
+  },
+  "440abc2d035f494a9bf172ed29f9fa2f": {
+    "title": "Q.U.B.E. 10th Anniversary",
+    "notes": {
+      "vcrun2022": "Game fails to start with a message requiring Visual C runtime"
+    },
+    "winetricks": [
+      "vcrun2022"
+    ]
+  },
+  "4aff63ad39cb4fe7a61720d59a4cebc6": {
+    "title": "Dakar Desert Rally",
+    "notes": {
+      "vcrun2022": "Game asks to install it or it won't start"
+    },
+    "winetricks": [
+      "vcrun2022"
+    ]
+  },
+  "4d0ff75b922447649057c237c0bd1545": {
+    "title": "The Elder Scrolls Online",
+    "notes": {
+      "dotnet48": "Fix game launcher not running"
+    },
+    "winetricks": [
+      "dotnet48"
+    ]
+  },
+  "4ec72fd8cbd94aa4acc61624c68fbc4f": {
+    "title": "Epistory - Typing Chronicles",
+    "notes": {
+      "arial": "Solves invisible text"
+    },
+    "winetricks": [
+      "arial"
+    ]
+  },
+  "575efd0b5dd54429b035ffc8fe2d36d0": {
+    "title": "Marvel Rivals",
+    "wikiLink": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/Marvel-Rivals"
+  },
+  "5ab7c9b39f81481c88dce1e4f106a594": {
+    "title": "Weird West: Definitive Edition",
+    "notes": {
+      "vcrun2022": "Allows the game to run"
+    },
+    "winetricks": [
+      "vcrun2022"
+    ]
+  },
+  "5f1c66366b2c4a6496d535d88c56e6cf": {
+    "title": "Galactic Civilizations III",
+    "notes": {
+      "d3dx11_43": "Fix menu issue with white screen with invisible content"
+    },
+    "winetricks": [
+      "d3dx11_43"
+    ]
+  },
+  "76233c0af0a441c7bd541e7d7ab3cde1": {
+    "title": "Unrailed",
+    "winetricks": [
+      "d3dcompiler_47"
+    ]
+  },
+  "7763cb8916654651a50593a813ae7c38": {
+    "title": "Kao the Kangaroo",
+    "notes": {
+      "vcrun2022": "Game fails to start with a message requiring Visual C runtime"
+    },
+    "winetricks": [
+      "vcrun2022"
+    ]
+  },
+  "7e988ba04889404197fdf06c994326ed": {
+    "title": "The Last of Us™ Part I",
+    "notes": {
+      "vcrun2022": "Allows game to run"
+    },
+    "winetricks": [
+      "vcrun2022"
+    ]
+  },
+  "84cb9b4738f3420ab44048511f770f17": {
+    "title": "The Expanse: A Telltale Series",
+    "notes": {
+      "vcrun2022": "Allows game to run"
+    },
+    "winetricks": [
+      "vcrun2022"
+    ]
+  },
+  "8769e24080ea413b8ebca3f1b8c50951": {
+    "title": "Grand Theft Auto V Enhanced",
+    "wikiLink": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/Rockstar-Games-from-Epic-Games",
+    "notes": {
+      "USE_FAKE_EPIC_EXE": "Fixes Rockstar Launcher not detecting ownership of the game"
+    },
+    "envVariables": {
+      "USE_FAKE_EPIC_EXE": true
+    }
+  },
+  "87be9bd6707748888bce1f79b025c5dd": {
+    "title": "Neverwinter",
+    "notes": {
+      "d3dcompiler_47": "Fix black window when displaying game launcher."
+    },
+    "winetricks": [
+      "d3dcompiler_47"
+    ]
+  },
+  "8931f79300d04c5889799bffc8ef70bd": {
+    "title": "Galactic Civilizations III (Test branch)",
+    "notes": {
+      "d3dx11_43": "Fix menu issue with white screen with invisible content"
+    },
+    "winetricks": [
+      "d3dx11_43"
+    ]
+  },
+  "98614687b212444c9ff0d42095f56cb3": {
+    "title": "[REDACTED]",
+    "notes": {
+      "vcrun2022": "Game fails to start with a message requiring Visual C runtime"
+    },
+    "winetricks": [
+      "vcrun2022"
+    ]
+  },
+  "9d2d0eb64d5c44529cece33fe2a46482": {
+    "title": "Grand Theft Auto V",
+    "wikiLink": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/Rockstar-Games-from-Epic-Games",
+    "notes": {
+      "USE_FAKE_EPIC_EXE": "Fixes Rockstar Launcher not detecting ownership of the game"
+    },
+    "envVariables": {
+      "USE_FAKE_EPIC_EXE": true
+    }
+  },
+  "Auk": {
+    "title": "Q.U.B.E. 2 (shows up as Deluxe Edition in the store)",
+    "notes": {
+      "vcrun2022": "Game fails to start with a message requiring Visual C runtime"
+    },
+    "winetricks": [
+      "vcrun2022"
+    ]
+  },
+  "Bulbul": {
+    "title": "MudRunner",
+    "winetricks": [
+      "d3dx9_43"
+    ]
+  },
+  "Condor": {
+    "title": "Alan Wake's American Nightmare",
+    "winetricks": [
+      "d3dcompiler_47",
+      "vcrun2022"
+    ]
+  },
+  "Eagle": {
+    "title": "Moonlighter",
+    "notes": {
+      "vcrun2017": "Solves the black screen on launch"
+    },
+    "winetricks": [
+      "vcrun2017"
+    ]
+  },
+  "Fortnite": {
+    "title": "Fortnite",
+    "notes": {
+      "USE_FAKE_EPIC_EXE": "The fake epic exe breaks Fornite"
+    },
+    "envVariables": {
+      "USE_FAKE_EPIC_EXE": "0"
+    }
+  },
+  "Grunion": {
+    "title": "Horizon Zero Dawn Complete Edition",
+    "winetricks": [
+      "vcrun2022"
+    ]
+  },
+  "Heather": {
+    "title": "Red Dead Redemption 2",
+    "wikiLink": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/Rockstar-Games-from-Epic-Games",
+    "notes": {
+      "USE_FAKE_EPIC_EXE": "Fixes Rockstar Launcher not detecting ownership of the game"
+    },
+    "envVariables": {
+      "USE_FAKE_EPIC_EXE": true
+    }
+  },
+  "Hoki": {
+    "title": "Darksiders II Deathinitive Edition",
+    "winetricks": [
+      "d3dcompiler_47"
+    ]
+  },
+  "Lyrebird": {
+    "title": "Hob",
+    "winetricks": [
+      "d3dcompiler_43",
+      "vcrun2012"
+    ]
+  },
+  "Parakeet": {
+    "title": "Hyper Light Drifter",
+    "winetricks": [
+      "d3dcompiler_43"
+    ]
+  },
+  "Quail": {
+    "title": "20XX",
+    "notes": {
+      "d3dcompiler_47": "Fix 'D3D Error' that happens at boot"
+    },
+    "winetricks": [
+      "d3dcompiler_47"
+    ]
+  },
+  "Sugar": {
+    "title": "Rocket League",
+    "wikiLink": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/Rocket-League"
+  },
+  "a434dcb20f0d439b93aaa31dac9e3210": {
+    "title": "Defense Grid: The Awakening",
+    "winetricks": [
+      "d3dcompiler_43"
+    ]
+  },
+  "a99769d95d8f400baad1f67ab5dfe508": {
+    "title": "Core",
+    "winetricks": [
+      "dotnet48"
+    ]
+  },
+  "ab277c0995e945d2b2c50c46883627f1": {
+    "title": "PC Building Simulator",
+    "notes": {
+      "corefonts": "Fix invisible text in menu"
+    },
+    "winetricks": [
+      "corefonts"
+    ]
+  },
+  "b0cc370c45d34e47a39b056867b61388": {
+    "title": "Planescape: Torment: Enhanced Edition",
+    "notes": {
+      "openal": "Allows game to run"
+    },
+    "winetricks": [
+      "openal"
+    ]
+  },
+  "bcd55b0d87c245dd867f5b1bd496f1df": {
+    "title": "Arknights: Endfield",
+    "wikiLink": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/Anime-Games#arknights-endfield-linux"
+  },
+  "c180bd9859624278aa20f1333918498a": {
+    "title": "Red Dead Redemption",
+    "wikiLink": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/Rockstar-Games-from-Epic-Games",
+    "notes": {
+      "USE_FAKE_EPIC_EXE": "Fixes Rockstar Launcher not detecting ownership of the game"
+    },
+    "envVariables": {
+      "USE_FAKE_EPIC_EXE": true
+    }
+  },
+  "cc3213f280df4b428e85b771c09d1891": {
+    "title": "Ghostrunner 2",
+    "notes": {
+      "vcrun2022": "Games fails to launch without it."
+    },
+    "winetricks": [
+      "vcrun2022"
+    ]
+  },
+  "cccdbadd66124f609ba706a9c4c73756": {
+    "title": "Deceive Inc",
+    "notes": {
+      "vcrun2022": "Fixes black screen opening the game."
+    },
+    "winetricks": [
+      "vcrun2022"
+    ]
+  },
+  "d36336f190094951873ed6138ac208d8.json": {
+    "title": "Sifu",
+    "notes": {
+      "vcrun2022": "Game fails to start with a message requiring Visual C runtime"
+    },
+    "winetricks": [
+      "vcrun2022"
+    ]
+  },
+  "d53d66f42d64416fa3c0ebfb6f5607ad": {
+    "title": "Nightingale",
+    "notes": {
+      "vcrun2022": "Won't open without it. umu installs it on linux, but it's needed on mac"
+    },
+    "winetricks": [
+      "vcrun2022"
+    ]
+  },
+  "da0103e959e54d139d0c109ded3b3672": {
+    "title": "Europa Universalis IV",
+    "winetricks": [
+      "d3dx9_43",
+      "d3dcompiler_43"
+    ]
+  },
+  "dd75b5c168d546cc869582c0389f0a1d": {
+    "title": "Train Sim World 2",
+    "winetricks": [
+      "d3dcompiler_47",
+      "vcrun2022"
+    ]
+  },
+  "e5f031908d2e460b8757387d1a136e48": {
+    "title": "Returnal™",
+    "notes": {
+      "USE_FAKE_EPIC_EXE": "Fixes game not detecting ownership in Epic"
+    },
+    "envVariables": {
+      "USE_FAKE_EPIC_EXE": true
+    }
+  },
+  "ea8df71f923649a193ab1c1fded7e1b3": {
+    "title": "Ghostrunner",
+    "notes": {
+      "vcrun2022": "Game fails to start with a message requiring Visual C runtime"
+    },
+    "winetricks": [
+      "vcrun2022"
+    ]
+  },
+  "fa4240e57a3c46b39f169041b7811293": {
+    "title": "Hogwarts Legacy",
+    "wikiLink": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/Game-Workarounds#hogwarts-legacy-on-macos",
+    "winetricks": [
+      "vcrun2022"
+    ]
+  }
+}
