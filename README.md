@@ -157,3 +157,7 @@ v2.13.0 means that the dependencies are installed automatically based on GOG man
 - XCOM® 2
 
 ### Amazon:
+- no games yet
+
+### Zoom:
+- no games yet

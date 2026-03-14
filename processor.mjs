@@ -1,9 +1,9 @@
 import fs from "fs/promises";
 
 async function generateSingleFile() {
-  const folders = ["amazon", "epic", "gog"];
+  const folders = ["amazon", "epic", "gog", "zoom"];
 
-  const allData = {};
+  const allData = {amazon: {}, epic: {}, gog: {}, zoom: {}};
 
   for (const folder of folders) {
     for await (const entry of fs.glob(`${folder}/*.json`)) {
@@ -13,7 +13,7 @@ async function generateSingleFile() {
         .replace("-.json", "");
       const content = await fs.readFile(entry, "utf-8");
 
-      allData[appName] = JSON.parse(content);
+      allData[folder][appName] = JSON.parse(content);
     }
   }
 
