@@ -154,6 +154,7 @@ v2.13.0 means that the dependencies are installed automatically based on GOG man
 - ~The Witcher 2: Assassins of Kings Enhanced Edition~ (v2.13.0)
 - THIEF: Definitive Edition
 - Tzar: The Burden of the Crown
+- Warhammer: Shadow of the Horned Rat
 - XCOM® 2
 
 ### Amazon:
