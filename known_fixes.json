@@ -311,6 +311,10 @@
         "vcrun2012"
       ]
     },
+    "MtMassive": {
+      "title": "STAR WARS™ Battlefront™ II: Celebration Edition",
+      "wikiLink": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/Game-Workarounds#ea-app-games"
+    },
     "Parakeet": {
       "title": "Hyper Light Drifter",
       "winetricks": [
@@ -363,6 +367,10 @@
     "bcd55b0d87c245dd867f5b1bd496f1df": {
       "title": "Arknights: Endfield",
       "wikiLink": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/Anime-Games#arknights-endfield-linux"
+    },
+    "bobcat": {
+      "title": "Star Wars Squadrons",
+      "wikiLink": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/Game-Workarounds#ea-app-games"
     },
     "c180bd9859624278aa20f1333918498a": {
       "title": "Red Dead Redemption",
@@ -448,6 +456,14 @@
       "winetricks": [
         "vcrun2022"
       ]
+    },
+    "huddle": {
+      "title": "The Sims™ 4",
+      "wikiLink": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/Game-Workarounds#ea-app-games"
+    },
+    "verdi": {
+      "title": "Dragon Age: Inquisition - Game of the Year Edition",
+      "wikiLink": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/Game-Workarounds#ea-app-games"
     }
   },
   "gog": {
