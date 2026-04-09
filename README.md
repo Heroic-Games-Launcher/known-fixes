@@ -72,6 +72,7 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - Darksiders II Deathinitive Edition
 - Defense Grid: The Awakening
 - Deceive Inc
+- Dragon Age: Inquisition - Game of the Year Edition
 - Epistory - Typing Chronicles
 - Europa Universalis IV
 - Fall Guys (fixes will be supported starting with Heroic 2.13.0)
@@ -107,11 +108,14 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - Rogue Legacy
 - ~Shadow Tactics - Aiko's Choice~ (not needed anymore)
 - Sifu
+- Star Wars Squadrons
+- STAR WARS™ Battlefront™ II: Celebration Edition
 - Teenage Mutant Ninja Turtles: Shredder's Revenge
 - The Callisto Protocol
 - The Elder Scrolls Online
 - The Expanse: A Telltale Series
 - The Last of Us Part I
+- The Sims™ 4
 - Thief
 - Them's Fightin' Herds
 - Train Sim World 2
