@@ -64,6 +64,9 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - 20XX
 - Alan Wake's American Nightmare
 - Arknights: Endfield
+- Assassin's Creed III Remastered
+- Assassin's Creed Odyssey
+- Assassins Creed Syndicate
 - ~BioShock Remastered~ (not needed since Heroic 2.12.0)
 - Blair Witch
 - Bus Simulator 21 Next Stop
@@ -73,6 +76,8 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - Defense Grid: The Awakening
 - Deceive Inc
 - Dragon Age: Inquisition - Game of the Year Edition
+- Far Cry 3
+- Far Cry 5
 - Epistory - Typing Chronicles
 - Europa Universalis IV
 - Fall Guys (fixes will be supported starting with Heroic 2.13.0)
@@ -88,6 +93,7 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - Horizon Zero Dawn Complete Edition
 - HOT WHEELS UNLEASHED™
 - Hyper Light Drifter
+- Immortals: Fenyx Rising
 - Kao the Kangaroo
 - Marvel Rivals
 - Moonlighter
@@ -97,8 +103,10 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - ~Next Up Hero~ (not needed anymore)
 - PC Building Simulator
 - Planescape: Torment: Enhanced Edition
+- Prince of Persia: The Lost Crown Demo
 - Q.U.B.E. 10th Anniversary
 - Q.U.B.E. 2 (shows up as Deluxe Edition in the store)
+- Rayman Legends
 - Red Dead Redemption
 - Red Dead Redemption 2
 - Redout: Enhanced Edition
@@ -110,6 +118,7 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - Sifu
 - Star Wars Squadrons
 - STAR WARS™ Battlefront™ II: Celebration Edition
+- Steep
 - Teenage Mutant Ninja Turtles: Shredder's Revenge
 - The Callisto Protocol
 - The Elder Scrolls Online
@@ -118,8 +127,11 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - The Sims™ 4
 - Thief
 - Them's Fightin' Herds
+- Trackmania Starter Access
 - Train Sim World 2
 - Unrailed
+- Watch Dogs
+- Watch Dogs 2
 - Weird West: Definitive Edition
 
 ### GOG:
