@@ -242,6 +242,22 @@
         "USE_FAKE_EPIC_EXE": true
       }
     },
+    "Albacore": {
+      "title": "Assassins Creed Syndicate",
+      "wikiLink": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/How-to-install-Ubisoft-Connect-on-Linux-and-Mac"
+    },
+    "Anchovy": {
+      "title": "Rayman Legends",
+      "wikiLink": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/How-to-install-Ubisoft-Connect-on-Linux-and-Mac"
+    },
+    "Angelonia": {
+      "title": "Watch Dogs 2",
+      "wikiLink": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/How-to-install-Ubisoft-Connect-on-Linux-and-Mac"
+    },
+    "Anise": {
+      "title": "Assassin's Creed III Remastered",
+      "wikiLink": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/How-to-install-Ubisoft-Connect-on-Linux-and-Mac"
+    },
     "Auk": {
       "title": "Q.U.B.E. 2 (shows up as Deluxe Edition in the store)",
       "notes": {
@@ -251,11 +267,19 @@
         "vcrun2022"
       ]
     },
+    "Barracuda": {
+      "title": "Steep",
+      "wikiLink": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/How-to-install-Ubisoft-Connect-on-Linux-and-Mac"
+    },
     "Bulbul": {
       "title": "MudRunner",
       "winetricks": [
         "d3dx9_43"
       ]
+    },
+    "Clary": {
+      "title": "Assassin's Creed Odyssey",
+      "wikiLink": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/How-to-install-Ubisoft-Connect-on-Linux-and-Mac"
     },
     "Condor": {
       "title": "Alan Wake's American Nightmare",
@@ -263,6 +287,10 @@
         "d3dcompiler_47",
         "vcrun2022"
       ]
+    },
+    "Coriander": {
+      "title": "Far Cry 5",
+      "wikiLink": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/How-to-install-Ubisoft-Connect-on-Linux-and-Mac"
     },
     "Eagle": {
       "title": "Moonlighter",
@@ -298,11 +326,19 @@
         "USE_FAKE_EPIC_EXE": true
       }
     },
+    "Hellebore": {
+      "title": "Far Cry 3",
+      "wikiLink": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/How-to-install-Ubisoft-Connect-on-Linux-and-Mac"
+    },
     "Hoki": {
       "title": "Darksiders II Deathinitive Edition",
       "winetricks": [
         "d3dcompiler_47"
       ]
+    },
+    "Jasper": {
+      "title": "Watch Dogs",
+      "wikiLink": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/How-to-install-Ubisoft-Connect-on-Linux-and-Mac"
     },
     "Lyrebird": {
       "title": "Hob",
@@ -320,6 +356,14 @@
       "winetricks": [
         "d3dcompiler_43"
       ]
+    },
+    "Pheasant": {
+      "title": "Immortals: Fenyx Rising",
+      "wikiLink": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/How-to-install-Ubisoft-Connect-on-Linux-and-Mac"
+    },
+    "Pigeon": {
+      "title": "Trackmania Starter Access",
+      "wikiLink": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/How-to-install-Ubisoft-Connect-on-Linux-and-Mac"
     },
     "Quail": {
       "title": "20XX",
@@ -363,6 +407,10 @@
       "winetricks": [
         "openal"
       ]
+    },
+    "b32890f4b0b0454aae1d876b00f2410a": {
+      "title": "Prince of Persia: The Lost Crown Demo",
+      "wikiLink": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/How-to-install-Ubisoft-Connect-on-Linux-and-Mac"
     },
     "bcd55b0d87c245dd867f5b1bd496f1df": {
       "title": "Arknights: Endfield",
