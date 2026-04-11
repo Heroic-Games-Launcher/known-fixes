@@ -160,6 +160,7 @@ v2.13.0 means that the dependencies are installed automatically based on GOG man
 - Nobody Wants to Die
 - Prison Architect
 - Resident Evil
+- Resident Evil 2
 - ~SpellForce 2 - Anniversary Edition~ (v2.13.0)
 - ~SpellForce 2: Demons Of The Past~ (v2.13.0)
 - ~SpellForce 2: Faith in Destiny~ (v2.13.0)
