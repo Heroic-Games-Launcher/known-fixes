@@ -543,6 +543,15 @@
       "title": "Heroes of Might and Magic® 3: Complete",
       "wikiLink": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/Game-Workarounds#heroes-of-might-and-magic-3-complete-from-gog"
     },
+    "1207658861": {
+      "title": "Two Worlds Epic Edition",
+      "notes": {
+        "wmp9": "Required for game to start correctly"
+      },
+      "winetricks": [
+        "wmp9"
+      ]
+    },
     "1207658924": {
       "title": "The Witcher: Enhanced Edition",
       "notes": {
