@@ -1,0 +1,7 @@
+{
+  "title": "Two Worlds Epic Edition",
+  "notes": {
+      "wmp9": "Required for game to start correctly"
+  },
+  "winetricks": ["wmp9"]
+}
