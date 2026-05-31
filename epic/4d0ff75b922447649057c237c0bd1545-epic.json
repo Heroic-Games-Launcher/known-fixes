@@ -1,7 +1,8 @@
 {
     "title": "The Elder Scrolls Online",
     "notes": {
-        "dotnet48": "Fix game launcher not running"
+        "dotnet48": "Fix game launcher not running",
+        "webview2": "Fix game launcher not running - error: Timeout waiting for window to load. Please try to restart the Launcher."
     },
-    "winetricks": ["dotnet48"]
+    "winetricks": ["dotnet48, webview2"]
 }
