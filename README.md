@@ -70,6 +70,7 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - ~BioShock Remastered~ (not needed since Heroic 2.12.0)
 - Blair Witch
 - Bus Simulator 21 Next Stop
+- Cassette Beasts
 - Core
 - Dakar Desert Rally
 - Darksiders II Deathinitive Edition
