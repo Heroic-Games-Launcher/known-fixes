@@ -103,6 +103,7 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - Nightingale
 - ~Next Up Hero~ (not needed anymore)
 - PC Building Simulator
+- Phantom Blade: Executioners
 - Planescape: Torment: Enhanced Edition
 - Prince of Persia: The Lost Crown Demo
 - Q.U.B.E. 10th Anniversary

@@ -1,0 +1,9 @@
+{
+  "title": "Phantom Blade: Executioners",
+  "notes": {
+    "USE_FAKE_EPIC_EXE": "Fixes launcher not detecting epic when trying to run the game"
+  },
+  "envVariables": {
+    "USE_FAKE_EPIC_EXE": true
+  }
+}
