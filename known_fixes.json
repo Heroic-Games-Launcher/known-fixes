@@ -399,6 +399,15 @@
         "corefonts"
       ]
     },
+    "afd9f29c1af44610b9e0f9b69742e257": {
+      "title": "Phantom Blade: Executioners",
+      "notes": {
+        "USE_FAKE_EPIC_EXE": "Fixes launcher not detecting epic when trying to run the game"
+      },
+      "envVariables": {
+        "USE_FAKE_EPIC_EXE": true
+      }
+    },
     "b0cc370c45d34e47a39b056867b61388": {
       "title": "Planescape: Torment: Enhanced Edition",
       "notes": {
