@@ -16,6 +16,16 @@
         "d3dcompiler_47"
       ]
     },
+    "0828ecd4297c4f89bfcc45420e695b67": {
+      "title": "Grand Theft Auto: San Andreas – The Definitive Edition",
+      "wikiLink": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/Rockstar-Games-from-Epic-Games",
+      "notes": {
+        "USE_FAKE_EPIC_EXE": "Fixes Rockstar Launcher not detecting ownership of the game"
+      },
+      "envVariables": {
+        "USE_FAKE_EPIC_EXE": true
+      }
+    },
     "0a2d9f6403244d12969e11da6713137b": {
       "title": "Fall Guys",
       "notes": {
