@@ -89,6 +89,7 @@ When a fix is not needed anymore, remove the json file and strike-through the ti
 - Ghostrunner 2
 - Grand Theft Auto V
 - Grand Theft Auto V Enhanced
+- Grand Theft Auto: San Andreas – The Definitive Edition
 - Hob
 - Hogwarts Legacy
 - Horizon Zero Dawn Complete Edition
