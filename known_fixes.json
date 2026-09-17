@@ -706,6 +706,15 @@
         "vcrun2022"
       ]
     },
+    "1986509485": {
+      "title": "The Outer Worlds: Spacer's Choice Edition",
+      "notes": {
+        "vcrun2022": "Allows game to run"
+      },
+      "winetricks": [
+        "vcrun2022"
+      ]
+    },
     "2057001589": {
       "title": "Europa Universalis IV",
       "wikiLink": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/Paradox-Launcher-for-native-Linux-games-from-GOG"
