@@ -1,0 +1,7 @@
+{
+  "title": "The Outer Worlds: Spacer's Choice Edition",
+  "notes": {
+      "vcrun2022": "Allows game to run"
+  },
+  "winetricks": ["vcrun2022"]
+}
