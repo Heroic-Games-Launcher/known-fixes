@@ -1,0 +1,7 @@
+{
+  "title": "Ground Control 2: Operation Exodus Special Edition",
+  "notes": {
+      "verdana": "Fix crash opening the game"
+  },
+  "winetricks": ["verdana"]
+}
