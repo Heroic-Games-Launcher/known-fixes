@@ -562,6 +562,15 @@
         "d3dcompiler_43"
       ]
     },
+    "1207658782": {
+      "title": "Ground Control 2: Operation Exodus Special Edition",
+      "notes": {
+        "verdana": "Fix crash opening the game"
+      },
+      "winetricks": [
+        "verdana"
+      ]
+    },
     "1207658787": {
       "title": "Heroes of Might and Magic® 3: Complete",
       "wikiLink": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/Game-Workarounds#heroes-of-might-and-magic-3-complete-from-gog"
