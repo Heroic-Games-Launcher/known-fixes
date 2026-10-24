@@ -1,5 +1,15 @@
 {
-  "amazon": {},
+  "amazon": {
+    "amzn1.adg.product.484268fa-d1e7-4754-ad8d-a5181f12f8b0": {
+      "title": "Icewind Dale: Enhanced Edition",
+      "notes": {
+        "openal": "Needed for the game to open."
+      },
+      "winetricks": [
+        "openal"
+      ]
+    }
+  },
   "epic": {
     "0006475a83f143ba807174654bc09d38": {
       "title": "HOT WHEELS UNLEASHED™",
