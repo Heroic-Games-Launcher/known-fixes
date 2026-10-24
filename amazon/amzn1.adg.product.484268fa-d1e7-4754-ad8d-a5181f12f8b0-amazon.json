@@ -1,0 +1,7 @@
+{
+  "title": "Icewind Dale: Enhanced Edition",
+  "notes": {
+    "openal": "Needed for the game to open."
+  },
+  "winetricks": ["openal"]
+}
