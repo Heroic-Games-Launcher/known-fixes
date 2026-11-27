@@ -1,7 +1,9 @@
 {
   "title": "20XX",
   "notes": {
-    "d3dcompiler_47": "Fix 'D3D Error' that happens at boot"
+    "d3dcompiler_47": "Previously listed fix for 'D3D Error' at boot; kept in case other code paths need it",
+    "d3dx9_43": "Fix 'D3D Error' at boot: the game compiles its shader effects through D3DX9, which Wine's builtin d3dx9_43 can't do",
+    "d3dcompiler_43": "Native d3dx9_43 compiles fx_2_0 effects through this DLL; Wine's builtin fails with \"Unknown target profile 'fx_2_0'\""
   },
-  "winetricks": ["d3dcompiler_47"]
+  "winetricks": ["d3dcompiler_47", "d3dx9_43", "d3dcompiler_43"]
 }
